@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A data driven software engineer from Ireland.</h3>
 
-- 💬 Ask me about **Python, AI,**
-
 - 📫 How to reach me **cshine612@gmail.com**
 
 - 📄 Know about my experiences [bit.ly/chris-shine-cv](bit.ly/chris-shine-cv)
