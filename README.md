@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A python developer from Ireland.</h3>
+<h3 align="center">A Python Developer from Ireland.</h3>
+
+- 🌱 I’m currently learning **Agile and Scrum**
+
+- 💬 Ask me about **Python, AI/ML, or gaming 🕹️**
 
 - 📫 How to reach me **cshine612@gmail.com**
 
 - 📄 Know about my experiences [bit.ly/chris-shine-cv](bit.ly/chris-shine-cv)
+
+- ⚡ Fun fact **I was a digital nomad for 3 years 🗺️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
