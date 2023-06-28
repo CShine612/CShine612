@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A data driven software engineer from Ireland.</h3>
+<h3 align="center">A python developer from Ireland.</h3>
 
 - 📫 How to reach me **cshine612@gmail.com**
 
