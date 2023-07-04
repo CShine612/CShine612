@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A Python Developer from Ireland.</h3>
 
+- 🔭 I’m currently working on **Kaggle, I'm going to get me one of those medals.**
+
 - 🌱 I’m currently learning **Agile and Scrum**
 
 - 💬 Ask me about **Python, AI/ML, or gaming 🕹️**
