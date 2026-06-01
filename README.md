@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A Python Developer from Ireland.</h3>
 
-- 🌱 I’m currently learning **Agentic coding and server administration**
+- 🌱 I’m currently learning **agentic coding and server administration**
 
 - 💬 Ask me about **Python, AI/ML, or gaming 🕹️**
 
