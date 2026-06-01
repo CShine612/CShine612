@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **cshine612@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/chris-shine-cv](bit.ly/chris-shine-cv)
-
 - ⚡ Fun fact **I was a digital nomad for 3 years 🗺️**
 
 <h3 align="left">Connect with me:</h3>
