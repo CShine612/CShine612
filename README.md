@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A Python Developer from Ireland.</h3>
-
-- 🌱 I’m currently learning **agentic coding and server administration**
-
-- 💬 Ask me about **Python, AI/ML, or gaming 🕹️**
-
-- 📫 How to reach me **cshine612@gmail.com**
-
-- ⚡ Fun fact **I was a digital nomad for 3 years 🗺️**
+<h3 align="center">A Support Engineer from Ireland.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
